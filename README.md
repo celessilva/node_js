@@ -1,3 +1,3 @@
 # node_js
 
-aqui iran la practics de node-js
+aqui iran la practicas de node-js
